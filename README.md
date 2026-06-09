@@ -5,7 +5,7 @@ A real-time currency converter web application built with **Python (Flask)** and
 🔗 **Live Demo:** [Add your deployed link here]
 
 ![Screenshot](screenshot.png)
-*Add a screenshot of your app here*
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2026-06-09 154245.png"
 
 ---
 
