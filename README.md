@@ -2,7 +2,9 @@
 
 A real-time currency converter web application built with **Python (Flask)** and vanilla **HTML/CSS/JavaScript**. Converts between 50+ world currencies using live exchange rates from [ExchangeRate-API](https://www.exchangerate-api.com/).
 
-🔗 **Live Demo:** [Add your deployed link here]
+🔗 **Live Demo:** [## Live Demo
+
+https://github.com/Mohanraj-1748/Project-1/raw/main/assets/Recording%202026-06-09%20155124.mp4]
 
 ![Screenshot](screenshot.png)
 "C:\Users\DELL\Pictures\Screenshots\Screenshot 2026-06-09 154245.png"
