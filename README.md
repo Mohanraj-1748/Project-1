@@ -4,9 +4,6 @@ A real-time currency converter web application built with **Python (Flask)** and
 
 🔗 **Live Demo:** https://currency-converter-web-hazel.vercel.app/
 
-![Screenshot](assets/Screenshot%202026-06-09%20154245.png)
-
-
 ---
 
 ## ✨ Features
